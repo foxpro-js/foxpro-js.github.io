@@ -1,3 +1,3 @@
-# April fools rickroll skatepark website
+# April fools rickroll for FoxPro lovers
 
-As long as Ethan doesn't browse my repo before I send him the link, this should work great...
+Wouldn't it be great to automatically convert forms from FoxPro to JavaScript. Sounds too good to be true, doesn't it? :-)
